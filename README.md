@@ -32,3 +32,10 @@ python app.py
 - Interface responsiva
 - Filtros e busca avançada
 
+## Acesso ao sistema
+
+- O fluxo de registro de novos usuários está funcionando normalmente, mas já incluímos um usuário de testes:
+  - Email: `teste@teste.com`
+  - Senha: `123456`
+- Para abrir o dashboard e as ações rápidas, basta posicionar o mouse sobre o ícone do usuário na barra superior; um menu suspenso será exibido com os atalhos.
+
